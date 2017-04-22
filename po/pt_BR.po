@@ -19,3 +19,31 @@ msgstr ""
 "X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: python/prelims/__init__.py:101
+#, python-format
+msgid ""
+"show this help message and exit -- additional help is available on each of "
+"the sub-commands for example: \"%(prog)s run --help\" shows the help for the "
+"run command"
+msgstr ""
+
+#. TC: a command line option help string.
+#: python/prelims/__init__.py:108
+msgid "show the version number and exit"
+msgstr "mostrar o número da versão e sair"
+
+#. TC: a command line option help string.
+#: python/prelims/__init__.py:112
+msgid ""
+"run the main idjc application -- this is the default when no command line "
+"options are specified"
+msgstr ""
+
+#. TC: do not translate run.
+#: python/prelims/__init__.py:116
+msgid "-- sub-command: run -- launch the idjc application"
+msgstr ""
+
+#: python/prelims/__init__.py:121
+msgid "make a new profile"
+msgstr "criar um novo perfil"
