@@ -38,6 +38,8 @@ msgid ""
 "run the main idjc application -- this is the default when no command line "
 "options are specified"
 msgstr ""
+"executar o aplicativo idjc principal -- este é o padrão quando não há linha de comando"
+"opções são especificadas"
 
 #. TC: do not translate run.
 #: python/prelims/__init__.py:116
